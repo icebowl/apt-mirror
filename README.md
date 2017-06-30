@@ -28,3 +28,8 @@ deb-amd64 http://ftp.us.debian.org/debian stretch-proposed-updates main contrib 
 clean http://ftp.us.debian.org/debian
 
 # apt-mirror
+
+
+default location is: /var/spool/apt-mirror/mirror
+
+apt-mirror
